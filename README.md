@@ -1,2 +1,2 @@
-# simple-demo
-Jason Taylor's simple demo on Udemy
+# Simple Example repository
+This repository is Jason Taylor's Udemy for training purposes only.
